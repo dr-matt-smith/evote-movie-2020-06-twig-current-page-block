@@ -44,7 +44,7 @@
     {% endblock %}
     ```
 
-- The means each navbar link has a `<style=""` attribute, but only the link for the current page as a value for this attribute, e.g. for the home page the navbar is as follows:
+- The means each navbar link has a `<style=""` attribute, but only the link for the current page as a value for this attribute, e.g. for the home page the navbar source HTML received by the web browser as follows:
 
     ```html
     <li>
